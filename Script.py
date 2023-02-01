@@ -106,3 +106,14 @@ Added By - {}
 ID - <code>{}</code>
 Name - {}
 """
+    CAPTION = """
+📂{file_name}
+
+🔘{file_size}
+
+Join For Movie Request : @puthanpadam3 😘
+Join For Movie Updates : @puthuputhanpadam3 😍 
+Follow For New Releases : 
+https://instagram.com/puthanpadamupdate?igshid=YmMyMTA2M2Y= 🥰 
+Plz Subscribe Our Youtube Channel : https://youtube.com/channel/UCgbv-kTsrrA_p7aOAxirkuA ❤️‍🔥
+"""
